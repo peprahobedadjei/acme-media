@@ -12,7 +12,7 @@
 # Server Side 
 1. Open another terminal tab in the same folder directory and run 'node server start' to start server
 2. Server will be running  on http://localhost:5000/
-3. Serve will be active now.
+3. Server will be active now.
 
 
 
